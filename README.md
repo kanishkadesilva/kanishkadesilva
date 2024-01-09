@@ -13,11 +13,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+Inspiring+the+intelligence.+Connecting+you+digitally.+%F0%9F%90%9D" alt="Typing SVG" /></a>
   </p>
     <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/BlackAmda?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QueenAmdi)](https://github.com/BlackAmda/QueenAmdi)
+    <summary>&#127942 <b>My currently working on projects,</b></summary><br/>
+      
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QueenAmdi)](https://github.com/kanishkadesilva/QUEEN-THARU-MD)
 
 </details>
 
