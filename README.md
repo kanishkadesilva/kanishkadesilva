@@ -56,20 +56,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=kanishkadesilva&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanishkadesilva&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkadesilva&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kanishkadesilva&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
-## 🎖️ HacktoberFest Badges
-[![An image of @priyanshk09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshk09)](https://holopin.io/@priyanshk09)
-
-
-# 📊 GitHub Stats:
-![LinThit27's Stats](https://github-readme-stats.vercel.app/api?username=LinThit27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![LinThit27's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=LinThit27&theme=tokyonight&hide_border=true)<br/>
-![LinThit27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThit27&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![LinThit27's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LinThit27&radius=6&theme=tokyo-night&hide_border=true) 
-
 <p align="center">
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight" width="26%" align="left"/>
@@ -78,3 +64,8 @@
 </div>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kanishkadesilva&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+## 🎖️ HacktoberFest Badges
+[![An image of @priyanshk09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshk09)](https://holopin.io/@priyanshk09)
