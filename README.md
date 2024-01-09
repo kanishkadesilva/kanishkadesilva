@@ -4,9 +4,6 @@
 </p>
 </br>
 <p align="center">
-<img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 />
-</p> <br>
-<p align="center">
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
     </p>
   <p align="center">
