@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Lin+Thit+Htwe." alt="Typing SVG" /></a>
+</p>
+</br>
+  
   </p> <br>
 <p align="center"> 
   HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px">
