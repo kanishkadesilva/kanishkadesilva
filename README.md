@@ -66,9 +66,7 @@
 
 ## 🎖️ HacktoberFest Badges
 [![An image of @priyanshk09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshk09)](https://holopin.io/@priyanshk09)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
