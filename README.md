@@ -3,11 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lemon&size=33&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World!;Welcome+to+my+profile." alt="Typing SVG" /></a>
 </p>
 </br>
-  
-  </p> <br>
-<p align="center"> 
-  HELLO WORLD! <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/wave.gif" width="35px">
-  </p> <br>
 <p align="center">
 <img src=https://komarev.com/ghpvc/?username=majidtdeni666 alt=majidtdeni666 />
 </p> <br>
