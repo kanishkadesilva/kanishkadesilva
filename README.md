@@ -12,10 +12,9 @@
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
     </p>
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Scribble&size=40&pause=1000&color=F7F7F7&random=false&width=435&height=70&lines=Kanishka+De+Silva" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Scribble&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=Kanishka+De+Silva" alt="Typing SVG" /></a>
   </p>
-
-<details>
+    <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/BlackAmda?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
