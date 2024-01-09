@@ -11,12 +11,6 @@
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
     </p>
   
-  <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=BlackAmda)
-
-</details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
