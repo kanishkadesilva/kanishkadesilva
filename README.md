@@ -19,23 +19,8 @@
 
 </details>
 
-
-
 <br> <br><br><br>
-<h1 align="center"><strong> Connect with me </h1></strong>
-<center>
-<p align="center">
 
-<div align="center" class="icons-social" style="margin-left: 10px;"><a href="https://linkedin.com/in/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20599226/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20599226/ashmit-mehta" height="30" width="40" /></a>
-<a href="https://fb.com/ashmit.mehta.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashmit.mehta.142" height="30" width="40" /></a>
-<a href="https://instagram.com/mehta.ashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehta.ashmit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc24ozjupfgljtzgshlnh5aw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ash_codes00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash_codes00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rmehta_rahul2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rmehta_rahul2" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashmit_mehta" height="30" width="40" /></a>
-<a href="https://discord.gg/Ashmit#1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashmit#1879" height="30" width="40" /></a></div>
-</p>
 </center>
 <br>
 
@@ -104,35 +89,17 @@ A passionate full stack developer from Myanmar.
 </div>
 </p>
 
- 
+<h1 align="center"><strong> Connect with me </h1></strong>
+<center>
+<p align="center">
 
-# 📊 Wakatime Stats:
-![LinThit27's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinThit27\&layout=compact&theme=tokyonight&hide_border=true)
-
-[![wakatime](https://wakatime.com/badge/user/018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5.svg)](https://wakatime.com/@018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5)
-
-## 🏆 GitHub Trophies
-![LinThit27's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThit27&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LinThit27&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-### 🤪 Random Programming Joke 
-![](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-### Currently Coding and Listening To 🎧
-
- [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ny5lr2mszspimd7eustqcnombe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/linthit27)
-
-<details>
-  <summary>More Spotify Data ⬇️ </summary>
-
-  [![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ny5lr2mszspimd7eustqcnombe)](https://data-card-for-spotify.herokuapp.com/card?user_id=31ny5lr2mszspimd7eustqcnombe)
-
-</details>
-
-  
-
-
-
-
+<div align="center" class="icons-social" style="margin-left: 10px;"><a href="https://linkedin.com/in/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20599226/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20599226/ashmit-mehta" height="30" width="40" /></a>
+<a href="https://fb.com/ashmit.mehta.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashmit.mehta.142" height="30" width="40" /></a>
+<a href="https://instagram.com/mehta.ashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehta.ashmit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc24ozjupfgljtzgshlnh5aw" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ash_codes00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash_codes00" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rmehta_rahul2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rmehta_rahul2" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashmit_mehta" height="30" width="40" /></a>
+<a href="https://discord.gg/Ashmit#1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashmit#1879" height="30" width="40" /></a></div>
+</p>
