@@ -58,9 +58,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkadesilva&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <p align="center">
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight" width="26%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linthit27&theme=tokyonight" width="26%" align="right"  />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linthit27&theme=tokyonight" width="26%" align="center" title="productive time" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanishkadesilva&theme=tokyonight" width="26%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanishkadesilva&theme=tokyonight" width="26%" align="right"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanishkadesilva&theme=tokyonight" width="26%" align="center" title="productive time" />  
 </div>
 </p>
 
