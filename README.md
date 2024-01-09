@@ -17,7 +17,7 @@
     <details>
     <summary>&#127942 <b>My currently working on projects,</b></summary><br/>
       
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackAmda&theme=highcontrast&repo=QUEEN-THARU-MD)](https://github.com/kanishkadesilva/QUEEN-THARU-MD)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=kanishkadesilva&theme=highcontrast&repo=QUEEN-THARU-MD)](https://github.com/kanishkadesilva/QUEEN-THARU-MD)
 
 </details>
 
