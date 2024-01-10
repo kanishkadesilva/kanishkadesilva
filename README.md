@@ -15,7 +15,7 @@
 <center>
 <p align="center">
 
-[![Github](https://img.shields.io/badge/Whatsapp-%2324192eDA.svg?logo=whatsapp&logoColor=white)](https://wa.me/+94722477361)[![LinkedIn](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.linkedin.com/in/lin-thit-845b64294/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-thit-845b64294/)
+[![Github](https://img.shields.io/badge/Whatsapp-%2324192eDA.svg?logo=whatsapp&logoColor=white)](https://wa.me/+94722477361)[![LinkedIn](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://https://www.facebook.com/kanishka.de.silva.01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-thit-845b64294/)
 
   <details>
     <summary>&#127942 <b>My currently working on projects,</b></summary><br/>
