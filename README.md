@@ -13,10 +13,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+Inspiring+the+intelligence.+Connecting+you+digitally.+%F0%9F%90%9D" alt="Typing SVG" /></a>
   </p>
 <center>
+  
 <p align="center">
-
+  
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2324192eDA.svg?logo=whatsapp&logoColor=white)](https://wa.me/+94722477361)[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://https://www.facebook.com/kanishka.de.silva.01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kanishka_de_silva_01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kanishkadeslva) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/+94722477361)
 </p>
+
   <details>
     <summary>&#127942 <b>My currently working on projects,</b></summary><br/>
       
@@ -38,7 +40,6 @@
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
