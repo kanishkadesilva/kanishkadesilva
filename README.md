@@ -16,7 +16,7 @@
 <p align="center">
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2324192eDA.svg?logo=whatsapp&logoColor=white)](https://wa.me/+94722477361)[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://https://www.facebook.com/kanishka.de.silva.01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kanishka_de_silva_01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kanishkadeslva) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/+94722477361)
-
+</p>
   <details>
     <summary>&#127942 <b>My currently working on projects,</b></summary><br/>
       
