@@ -143,8 +143,7 @@
   </p>
 </details>
 
-<h3>Sahan's Music Player</h3>
-
+<p align="center">
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
    </p>
    
