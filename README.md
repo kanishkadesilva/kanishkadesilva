@@ -143,6 +143,11 @@
   </p>
 </details>
 
+<h3>Sahan's Music Player</h3>
+
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+   </p>
+   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kanishkadesilva&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanishkadesilva&theme=highcontrast&hide_border=true)<br/>
