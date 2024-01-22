@@ -1,16 +1,16 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lemon&size=33&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World!;Welcome+to+my+profile." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lemon&size=33&pause=1000&color=FF0000&random=false&width=435&lines=Hello+World!;Welcome+to+my+profile." alt="Typing SVG" /></a>
 </p>
 </br>
 <p align="center">
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/Developer.gif width="180px"
     </p>
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=25&pause=1000&color=EEF768&center=true&vCenter=true&random=false&width=435&lines=KANISHKA+DE+SILVA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=KANISHKA+DE+SILVA" alt="Typing SVG" /></a>
   </p>
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+Inspiring+the+intelligence.+Connecting+you+digitally.+%F0%9F%90%9D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+Inspiring+the+intelligence.+Connecting+you+digitally.+%F0%9F%90%9D" alt="Typing SVG" /></a>
   </p>
 <center>
   
