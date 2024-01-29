@@ -14,6 +14,11 @@
   </p>
 <center>
   
+<p align="center">
+  <a href="https://github.com/kanishkadesilva"><img title="Release" src="https://img.shields.io/badge/About-You%20only%20live%20once,%20but%20if%20you%20do%20it%20right,%20once%20is%20enough-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+  
 <p align="center"> 
   
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2324192eDA.svg?logo=whatsapp&logoColor=white)](https://wa.me/+94722477361)[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://https://www.facebook.com/kanishka.de.silva.01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kanishka_de_silva_01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kanishkadeslva) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/+94722477361)
